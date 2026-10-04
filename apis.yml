@@ -39,7 +39,6 @@ apis:
   - name: Cloudmersive Natural Language Processing
     description: "Natural language processing and text analysis"
     humanURL: https://www.cloudmersive.com/nlp-api
-    baseURL: https://www.cloudmersive.com/nlp-api
     tags:
       - Text Analysis
     properties:
